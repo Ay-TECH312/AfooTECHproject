@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN_APP_2.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.pdb
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.exe
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.xml
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.pdb
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.exe
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.pdb
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\bin\Debug\LOAN APP 2.xml
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN_APP_2.Resources.resources
+C:\old-files\Projects\LOAN APP 2\LOAN APP 2\obj\x86\Debug\LOAN APP 2.vbproj.GenerateResource.Cache

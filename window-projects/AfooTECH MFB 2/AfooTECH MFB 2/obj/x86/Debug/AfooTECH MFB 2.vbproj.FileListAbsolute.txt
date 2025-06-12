@@ -1,0 +1,118 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AfooTECH_MFB.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\MySql.Data.DLL
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Dashboard.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\Guna.UI.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPasswordFinish.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewAmin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Overlay.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminRecord.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewCustomer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.CustomerRecord.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.CustomerLoanSchedule.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.DepositRecord.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.systemSettings.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewLoan.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserDashboard.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPasswordFinish.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.requestFORloan.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.change_password.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.customer_transaction.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLoanSchedule.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.User_transaction.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransfer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransferConfirm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminWithdrawlForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.PaymentReceiptForm.resources
+C:\Users\HP\Desktop\AfooTECH MFB 2\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.exe
+C:\Users\HP\Desktop\AfooTECH MFB 2\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.xml
+C:\Users\HP\Desktop\AfooTECH MFB 2\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.pdb
+C:\Users\HP\Desktop\AfooTECH MFB 2\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.exe
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.xml
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.pdb
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.exe
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.pdb
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.xml
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Dashboard.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminRecord.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminWithdrawlForm.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Login.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.change_password.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.CustomerLoanSchedule.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.customerRecord.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.customer_transaction.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.DepositRecord.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Overlay.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AfooTECH_MFB.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Resources.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.PaymentReceiptForm.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.requestFORloan.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPassword.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPasswordFinish.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.systemSettings.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserDashboard.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLoanSchedule.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLogin.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPassword.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPasswordFinish.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransfer.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransferConfirm.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.User_transaction.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewAmin.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewCustomer.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewLoan.resources
+C:\Users\HP\Documents\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbproj.GenerateResource.Cache
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.exe
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.xml
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.pdb
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.exe
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.pdb
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\bin\Debug\AfooTECH MFB 2.xml
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbprojResolveAssemblyReference.cache
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Dashboard.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminRecord.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AdminWithdrawlForm.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Admin_Login.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.change_password.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.CustomerLoanSchedule.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.customerRecord.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.customer_transaction.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.DepositRecord.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Overlay.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.AfooTECH_MFB.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.Resources.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.PaymentReceiptForm.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.requestFORloan.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPassword.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ResetPasswordFinish.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.systemSettings.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserDashboard.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLoanSchedule.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserLogin.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPassword.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserResetPasswordFinish.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransfer.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.UserTransferConfirm.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.User_transaction.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewAmin.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewCustomer.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH_MFB_2.ViewLoan.resources
+C:\Users\Ay TECH\OneDrive\Documents\windows-project\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.exe
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.xml
+C:\xampp\htdocs\allProject\AfooTECHprojects\window-projects\AfooTECH MFB 2\AfooTECH MFB 2\obj\x86\Debug\AfooTECH MFB 2.pdb

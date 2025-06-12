@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\bin\Debug\AGE CALCULATOR_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\bin\Debug\AGE CALCULATOR_WINS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\bin\Debug\AGE CALCULATOR_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE_CALCULATOR_WINS.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE_CALCULATOR_WINS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE CALCULATOR_WINS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE CALCULATOR_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE CALCULATOR_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR_WINS\AGE CALCULATOR_WINS\obj\x86\Debug\AGE CALCULATOR_WINS.pdb

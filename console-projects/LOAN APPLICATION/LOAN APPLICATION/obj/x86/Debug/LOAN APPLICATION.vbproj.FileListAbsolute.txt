@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\bin\Debug\LOAN APPLICATION.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\bin\Debug\LOAN APPLICATION.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\bin\Debug\LOAN APPLICATION.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\obj\x86\Debug\LOAN_APPLICATION.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\obj\x86\Debug\LOAN APPLICATION.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\obj\x86\Debug\LOAN APPLICATION.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\obj\x86\Debug\LOAN APPLICATION.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION\LOAN APPLICATION\obj\x86\Debug\LOAN APPLICATION.pdb

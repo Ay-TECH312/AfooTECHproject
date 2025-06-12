@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\bin\Debug\QUADRATIC FORMULA.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\bin\Debug\QUADRATIC FORMULA.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\bin\Debug\QUADRATIC FORMULA.xml
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\obj\x86\Debug\QUADRATIC_FORMULA.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\obj\x86\Debug\QUADRATIC FORMULA.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\obj\x86\Debug\QUADRATIC FORMULA.exe
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\obj\x86\Debug\QUADRATIC FORMULA.xml
+c:\users\administrator\documents\visual studio 2010\Projects\QUADRATIC FORMULA\QUADRATIC FORMULA\obj\x86\Debug\QUADRATIC FORMULA.pdb

@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\bin\Debug\STAFF SALARY OF ANY RATE_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\bin\Debug\STAFF SALARY OF ANY RATE_WINS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\bin\Debug\STAFF SALARY OF ANY RATE_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF_SALARY_OF_ANY_RATE_WINS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF SALARY OF ANY RATE_WINS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF SALARY OF ANY RATE_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF SALARY OF ANY RATE_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF SALARY OF ANY RATE_WINS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE_WINS\STAFF SALARY OF ANY RATE_WINS\obj\x86\Debug\STAFF_SALARY_OF_ANY_RATE_WINS.Form1.resources

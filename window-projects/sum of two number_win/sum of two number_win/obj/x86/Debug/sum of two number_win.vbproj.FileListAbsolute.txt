@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\bin\Debug\sum of two number_win.exe
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\bin\Debug\sum of two number_win.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\bin\Debug\sum of two number_win.xml
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum_of_two_number_win.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum of two number_win.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum of two number_win.exe
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum of two number_win.xml
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum of two number_win.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\sum of two number_win\sum of two number_win\obj\x86\Debug\sum_of_two_number_win.form1.resources

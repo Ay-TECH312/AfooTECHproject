@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\bin\Debug\SIMPLE CALCULATOR _ WINDS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\bin\Debug\SIMPLE CALCULATOR _ WINDS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\bin\Debug\SIMPLE CALCULATOR _ WINDS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE_CALCULATOR___WINDS.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE_CALCULATOR___WINDS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE CALCULATOR _ WINDS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE CALCULATOR _ WINDS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE CALCULATOR _ WINDS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SIMPLE CALCULATOR _ WINDS\SIMPLE CALCULATOR _ WINDS\obj\x86\Debug\SIMPLE CALCULATOR _ WINDS.pdb

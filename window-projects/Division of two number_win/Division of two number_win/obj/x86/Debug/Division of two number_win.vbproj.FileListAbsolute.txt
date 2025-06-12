@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division_of_two_number_win.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division_of_two_number_win.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.pdb
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.exe
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.xml
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.pdb
+C:\old-files\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.exe
+C:\old-files\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.pdb
+C:\old-files\Projects\Division of two number_win\Division of two number_win\bin\Debug\Division of two number_win.xml
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division_of_two_number_win.Form1.resources
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division_of_two_number_win.Resources.resources
+C:\old-files\Projects\Division of two number_win\Division of two number_win\obj\x86\Debug\Division of two number_win.vbproj.GenerateResource.Cache

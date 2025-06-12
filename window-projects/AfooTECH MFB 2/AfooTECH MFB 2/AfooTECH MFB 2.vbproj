@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9684254F-2DFA-4063-9D00-B24581EDB59C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AfooTECH_MFB_2.My.MyApplication</StartupObject>
+    <RootNamespace>AfooTECH_MFB_2</RootNamespace>
+    <AssemblyName>AfooTECH MFB 2</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AfooTECH MFB 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AfooTECH MFB 2.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 3.5\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\..\..\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>A:\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin Dashboard.Designer.vb">
+      <DependentUpon>Admin Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminRecord.Designer.vb">
+      <DependentUpon>AdminRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminWithdrawlForm.Designer.vb">
+      <DependentUpon>AdminWithdrawlForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminWithdrawlForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Login.Designer.vb">
+      <DependentUpon>Admin_Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="change_password.Designer.vb">
+      <DependentUpon>change_password.vb</DependentUpon>
+    </Compile>
+    <Compile Include="change_password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerLoanSchedule.Designer.vb">
+      <DependentUpon>CustomerLoanSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerLoanSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerRecord.Designer.vb">
+      <DependentUpon>CustomerRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_transaction.Designer.vb">
+      <DependentUpon>customer_transaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="customer_transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepositRecord.Designer.vb">
+      <DependentUpon>DepositRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DepositRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions.vb" />
+    <Compile Include="Overlay.Designer.vb">
+      <DependentUpon>Overlay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Overlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Landing_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Landing_Page.Designer.vb">
+      <DependentUpon>Landing_Page.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PaymentReceiptForm.Designer.vb">
+      <DependentUpon>PaymentReceiptForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentReceiptForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="requestFORloan.Designer.vb">
+      <DependentUpon>requestFORloan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="requestFORloan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.Designer.vb">
+      <DependentUpon>ResetPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPasswordFinish.Designer.vb">
+      <DependentUpon>ResetPasswordFinish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPasswordFinish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="systemSettings.Designer.vb">
+      <DependentUpon>systemSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="systemSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserDashboard.Designer.vb">
+      <DependentUpon>UserDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLoanSchedule.Designer.vb">
+      <DependentUpon>UserLoanSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserLoanSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLogin.Designer.vb">
+      <DependentUpon>UserLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserResetPassword.Designer.vb">
+      <DependentUpon>UserResetPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserResetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserResetPasswordFinish.Designer.vb">
+      <DependentUpon>UserResetPasswordFinish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserResetPasswordFinish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserTransfer.Designer.vb">
+      <DependentUpon>UserTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserTransferConfirm.Designer.vb">
+      <DependentUpon>UserTransferConfirm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserTransferConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_transaction.Designer.vb">
+      <DependentUpon>User_transaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User_transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAmin.Designer.vb">
+      <DependentUpon>ViewAmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCustomer.Designer.vb">
+      <DependentUpon>ViewCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewLoan.Designer.vb">
+      <DependentUpon>ViewLoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ViewLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin Dashboard.resx">
+      <DependentUpon>Admin Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminRecord.resx">
+      <DependentUpon>AdminRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminWithdrawlForm.resx">
+      <DependentUpon>AdminWithdrawlForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Login.resx">
+      <DependentUpon>Admin_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="change_password.resx">
+      <DependentUpon>change_password.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerLoanSchedule.resx">
+      <DependentUpon>CustomerLoanSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerRecord.resx">
+      <DependentUpon>CustomerRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_transaction.resx">
+      <DependentUpon>customer_transaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepositRecord.resx">
+      <DependentUpon>DepositRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Overlay.resx">
+      <DependentUpon>Overlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Landing_Page.resx">
+      <DependentUpon>Landing_Page.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentReceiptForm.resx">
+      <DependentUpon>PaymentReceiptForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="requestFORloan.resx">
+      <DependentUpon>requestFORloan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPassword.resx">
+      <DependentUpon>ResetPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPasswordFinish.resx">
+      <DependentUpon>ResetPasswordFinish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="systemSettings.resx">
+      <DependentUpon>systemSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserDashboard.resx">
+      <DependentUpon>UserDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLoanSchedule.resx">
+      <DependentUpon>UserLoanSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLogin.resx">
+      <DependentUpon>UserLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserResetPassword.resx">
+      <DependentUpon>UserResetPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserResetPasswordFinish.resx">
+      <DependentUpon>UserResetPasswordFinish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserTransfer.resx">
+      <DependentUpon>UserTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserTransferConfirm.resx">
+      <DependentUpon>UserTransferConfirm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_transaction.resx">
+      <DependentUpon>User_transaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAmin.resx">
+      <DependentUpon>ViewAmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCustomer.resx">
+      <DependentUpon>ViewCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLoan.resx">
+      <DependentUpon>ViewLoan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMAGE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-09-20 at 03.29.56_7c01c877.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-09-20 at 03.29.56_7c01c8771.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afoo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-09-20 at 03.29.56_0a972fe0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-09-19 at 18.57.36_fa613b3b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\afoo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2024-09-19 at 18.57.36_fa613b3b1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7612790.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2025-02-17 at 13.26.34_b8ec1d2c.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

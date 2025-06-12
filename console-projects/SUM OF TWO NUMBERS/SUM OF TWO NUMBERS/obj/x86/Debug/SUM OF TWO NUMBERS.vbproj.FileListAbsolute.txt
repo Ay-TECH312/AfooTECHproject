@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\bin\Debug\SUM OF TWO NUMBERS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\bin\Debug\SUM OF TWO NUMBERS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\bin\Debug\SUM OF TWO NUMBERS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM_OF_TWO_NUMBERS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.pdb
+D:\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.exe
+D:\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.xml
+D:\Projects\SUM OF TWO NUMBERS\SUM OF TWO NUMBERS\obj\x86\Debug\SUM OF TWO NUMBERS.pdb

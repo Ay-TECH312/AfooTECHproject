@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\obj\x86\Debug\GAPOSA_G.P.A_CALCULATOR.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\obj\x86\Debug\GAPOSA G.P.A CALCULATOR.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\bin\Debug\GAPOSA G.P.A CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\bin\Debug\GAPOSA G.P.A CALCULATOR.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\bin\Debug\GAPOSA G.P.A CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\obj\x86\Debug\GAPOSA G.P.A CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\obj\x86\Debug\GAPOSA G.P.A CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA G.P.A CALCULATOR\GAPOSA G.P.A CALCULATOR\obj\x86\Debug\GAPOSA G.P.A CALCULATOR.pdb

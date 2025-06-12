@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\bin\Debug\loop arithemetic calculator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\bin\Debug\loop arithemetic calculator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\bin\Debug\loop arithemetic calculator.xml
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\obj\x86\Debug\loop_arithemetic_calculator.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\obj\x86\Debug\loop arithemetic calculator.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\obj\x86\Debug\loop arithemetic calculator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\obj\x86\Debug\loop arithemetic calculator.xml
+c:\users\administrator\documents\visual studio 2010\Projects\loop arithemetic calculator\loop arithemetic calculator\obj\x86\Debug\loop arithemetic calculator.pdb

@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\obj\x86\Debug\THE_COMPARISON_OF_THREE_NUMBERS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\obj\x86\Debug\THE COMPARISON OF THREE NUMBERS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\bin\Debug\THE COMPARISON OF THREE NUMBERS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\bin\Debug\THE COMPARISON OF THREE NUMBERS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\bin\Debug\THE COMPARISON OF THREE NUMBERS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\obj\x86\Debug\THE COMPARISON OF THREE NUMBERS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\obj\x86\Debug\THE COMPARISON OF THREE NUMBERS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\THE COMPARISON OF THREE NUMBERS\THE COMPARISON OF THREE NUMBERS\obj\x86\Debug\THE COMPARISON OF THREE NUMBERS.pdb

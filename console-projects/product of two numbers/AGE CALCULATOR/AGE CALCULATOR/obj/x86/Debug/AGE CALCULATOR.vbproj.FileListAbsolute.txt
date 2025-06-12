@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\bin\Debug\AGE CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\x86\Debug\AGE_CALCULATOR.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\x86\Debug\AGE CALCULATOR.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\x86\Debug\AGE CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\x86\Debug\AGE CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AGE CALCULATOR\AGE CALCULATOR\obj\x86\Debug\AGE CALCULATOR.pdb

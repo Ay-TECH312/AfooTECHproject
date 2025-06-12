@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\obj\x86\Debug\GAPOSA.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\obj\x86\Debug\GAPOSA.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\bin\Debug\GAPOSA.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\bin\Debug\GAPOSA.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\bin\Debug\GAPOSA.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\obj\x86\Debug\GAPOSA.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\obj\x86\Debug\GAPOSA.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\GAPOSA\GAPOSA\obj\x86\Debug\GAPOSA.pdb

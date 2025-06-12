@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\bin\Debug\AfooTECH G.P.A CALCULATOR.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\bin\Debug\AfooTECH G.P.A CALCULATOR.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\bin\Debug\AfooTECH G.P.A CALCULATOR.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\obj\x86\Debug\AfooTECH G.P.A CALCULATOR.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\obj\x86\Debug\AfooTECH G.P.A CALCULATOR.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\obj\x86\Debug\AfooTECH G.P.A CALCULATOR.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR\AfooTECH G.P.A CALCULATOR\obj\x86\Debug\AfooTECH G.P.A CALCULATOR.pdb

@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\bin\Debug\STAFF SALARY OF ANY RATE.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\bin\Debug\STAFF SALARY OF ANY RATE.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\bin\Debug\STAFF SALARY OF ANY RATE.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\obj\x86\Debug\STAFF_SALARY_OF_ANY_RATE.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\obj\x86\Debug\STAFF SALARY OF ANY RATE.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\obj\x86\Debug\STAFF SALARY OF ANY RATE.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\obj\x86\Debug\STAFF SALARY OF ANY RATE.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY OF ANY RATE\STAFF SALARY OF ANY RATE\obj\x86\Debug\STAFF SALARY OF ANY RATE.pdb

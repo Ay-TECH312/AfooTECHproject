@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\bin\Debug\LOAN APPLICATION_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\bin\Debug\LOAN APPLICATION_WINS.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\bin\Debug\LOAN APPLICATION_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN_APPLICATION_WINS.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN_APPLICATION_WINS.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.exe
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.xml
+c:\users\administrator\documents\visual studio 2010\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.pdb
+C:\old-files\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.exe
+C:\old-files\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.xml
+C:\old-files\Projects\LOAN APPLICATION_WINS\LOAN APPLICATION_WINS\obj\x86\Debug\LOAN APPLICATION_WINS.pdb

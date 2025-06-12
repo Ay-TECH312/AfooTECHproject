@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\bin\Debug\CHALES LAW.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\bin\Debug\CHALES LAW.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\bin\Debug\CHALES LAW.xml
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\obj\x86\Debug\CHALES_LAW.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\obj\x86\Debug\CHALES LAW.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\obj\x86\Debug\CHALES LAW.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\obj\x86\Debug\CHALES LAW.xml
+c:\users\administrator\documents\visual studio 2010\Projects\CHALES LAW\CHALES LAW\obj\x86\Debug\CHALES LAW.pdb

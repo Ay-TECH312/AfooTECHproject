@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\bin\Debug\loop.exe
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\bin\Debug\loop.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\bin\Debug\loop.xml
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\obj\x86\Debug\loop.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\obj\x86\Debug\loop.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\obj\x86\Debug\loop.exe
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\obj\x86\Debug\loop.xml
+c:\users\administrator\documents\visual studio 2010\Projects\loop\loop\obj\x86\Debug\loop.pdb
+D:\Projects\loop\loop\obj\x86\Debug\loop.exe
+D:\Projects\loop\loop\obj\x86\Debug\loop.xml
+D:\Projects\loop\loop\obj\x86\Debug\loop.pdb

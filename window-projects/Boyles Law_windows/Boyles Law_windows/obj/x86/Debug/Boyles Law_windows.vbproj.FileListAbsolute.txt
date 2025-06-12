@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\bin\Debug\Boyles Law_windows.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\bin\Debug\Boyles Law_windows.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\bin\Debug\Boyles Law_windows.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles_Law_windows.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles_Law_windows.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles Law_windows.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles Law_windows.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles Law_windows.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Boyles Law_windows\Boyles Law_windows\obj\x86\Debug\Boyles Law_windows.pdb

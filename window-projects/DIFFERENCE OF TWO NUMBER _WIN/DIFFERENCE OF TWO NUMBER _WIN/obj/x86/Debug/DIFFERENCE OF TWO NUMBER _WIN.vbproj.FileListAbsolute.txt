@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\bin\Debug\DIFFERENCE OF TWO NUMBER _WIN.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\bin\Debug\DIFFERENCE OF TWO NUMBER _WIN.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\bin\Debug\DIFFERENCE OF TWO NUMBER _WIN.xml
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE_OF_TWO_NUMBER__WIN.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE_OF_TWO_NUMBER__WIN.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE OF TWO NUMBER _WIN.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE OF TWO NUMBER _WIN.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE OF TWO NUMBER _WIN.xml
+c:\users\administrator\documents\visual studio 2010\Projects\DIFFERENCE OF TWO NUMBER _WIN\DIFFERENCE OF TWO NUMBER _WIN\obj\x86\Debug\DIFFERENCE OF TWO NUMBER _WIN.pdb

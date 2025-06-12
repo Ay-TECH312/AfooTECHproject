@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT OF TWO NUMBER.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\bin\Debug\PRODUCT OF TWO NUMBER_win.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\bin\Debug\PRODUCT OF TWO NUMBER_win.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\bin\Debug\PRODUCT OF TWO NUMBER_win.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT OF TWO NUMBER_win.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT OF TWO NUMBER_win.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT OF TWO NUMBER_win.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT_OF_TWO_NUMBER_win.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PRODUCT OF TWO NUMBER\PRODUCT OF TWO NUMBER\obj\x86\Debug\PRODUCT_OF_TWO_NUMBER_win.Resources.resources

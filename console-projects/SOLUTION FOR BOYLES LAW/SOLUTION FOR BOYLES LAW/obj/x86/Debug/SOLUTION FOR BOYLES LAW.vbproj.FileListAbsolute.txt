@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\bin\Debug\SOLUTION FOR BOYLES LAW.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\bin\Debug\SOLUTION FOR BOYLES LAW.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\bin\Debug\SOLUTION FOR BOYLES LAW.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\obj\x86\Debug\SOLUTION_FOR_BOYLES_LAW.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\obj\x86\Debug\SOLUTION FOR BOYLES LAW.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\obj\x86\Debug\SOLUTION FOR BOYLES LAW.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\obj\x86\Debug\SOLUTION FOR BOYLES LAW.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SOLUTION FOR BOYLES LAW\SOLUTION FOR BOYLES LAW\obj\x86\Debug\SOLUTION FOR BOYLES LAW.pdb

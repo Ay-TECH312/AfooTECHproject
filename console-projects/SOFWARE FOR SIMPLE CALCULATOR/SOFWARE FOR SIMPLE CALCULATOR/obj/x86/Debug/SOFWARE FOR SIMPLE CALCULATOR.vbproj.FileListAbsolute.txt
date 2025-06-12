@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\bin\Debug\SOFWARE FOR SIMPLE CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\bin\Debug\SOFWARE FOR SIMPLE CALCULATOR.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\bin\Debug\SOFWARE FOR SIMPLE CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\obj\x86\Debug\SOFWARE_FOR_SIMPLE_CALCULATOR.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\obj\x86\Debug\SOFWARE FOR SIMPLE CALCULATOR.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\obj\x86\Debug\SOFWARE FOR SIMPLE CALCULATOR.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\obj\x86\Debug\SOFWARE FOR SIMPLE CALCULATOR.xml
+c:\users\administrator\documents\visual studio 2010\Projects\SOFWARE FOR SIMPLE CALCULATOR\SOFWARE FOR SIMPLE CALCULATOR\obj\x86\Debug\SOFWARE FOR SIMPLE CALCULATOR.pdb

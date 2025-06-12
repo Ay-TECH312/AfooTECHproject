@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\bin\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\bin\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\bin\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_VERSION_2.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\obj\x86\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\obj\x86\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.exe
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\obj\x86\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.xml
+c:\users\administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR VERSION 2\AfooTECH G.P.A CALCULATOR VERSION 2\obj\x86\Debug\AfooTECH G.P.A CALCULATOR VERSION 2.pdb

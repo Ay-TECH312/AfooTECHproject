@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\bin\Debug\CIRCUMFERENCE OF A CIRCLE.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\bin\Debug\CIRCUMFERENCE OF A CIRCLE.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\bin\Debug\CIRCUMFERENCE OF A CIRCLE.xml
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\obj\x86\Debug\CIRCUMFERENCE_OF_A_CIRCLE.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\obj\x86\Debug\CIRCUMFERENCE OF A CIRCLE.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\obj\x86\Debug\CIRCUMFERENCE OF A CIRCLE.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\obj\x86\Debug\CIRCUMFERENCE OF A CIRCLE.xml
+c:\users\administrator\documents\visual studio 2010\Projects\CIRCUMFERENCE OF A CIRCLE\CIRCUMFERENCE OF A CIRCLE\obj\x86\Debug\CIRCUMFERENCE OF A CIRCLE.pdb

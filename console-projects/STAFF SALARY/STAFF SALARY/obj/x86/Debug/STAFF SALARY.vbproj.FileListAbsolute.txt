@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\bin\Debug\STAFF SALARY.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\bin\Debug\STAFF SALARY.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\bin\Debug\STAFF SALARY.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\obj\x86\Debug\STAFF_SALARY.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\obj\x86\Debug\STAFF SALARY.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\obj\x86\Debug\STAFF SALARY.exe
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\obj\x86\Debug\STAFF SALARY.xml
+c:\users\administrator\documents\visual studio 2010\Projects\STAFF SALARY\STAFF SALARY\obj\x86\Debug\STAFF SALARY.pdb

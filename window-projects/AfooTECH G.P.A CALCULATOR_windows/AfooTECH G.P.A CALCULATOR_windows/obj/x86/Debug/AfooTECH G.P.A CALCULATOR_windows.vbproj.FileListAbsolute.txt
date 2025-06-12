@@ -1,0 +1,27 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Form1.resources
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Resources.resources
+E:\Projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.vbproj.GenerateResource.Cache
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.exe
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.pdb
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\bin\Debug\AfooTECH G.P.A CALCULATOR_windows.xml
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Form1.resources
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH_G.P.A_CALCULATOR_windows.Resources.resources
+C:\old-files\Projects\window-projects\AfooTECH G.P.A CALCULATOR_windows\AfooTECH G.P.A CALCULATOR_windows\obj\x86\Debug\AfooTECH G.P.A CALCULATOR_windows.vbproj.GenerateResource.Cache

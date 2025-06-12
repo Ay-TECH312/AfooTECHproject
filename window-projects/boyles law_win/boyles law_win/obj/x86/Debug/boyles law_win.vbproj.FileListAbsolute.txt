@@ -1,0 +1,3 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\boyles law_win\boyles law_win\obj\x86\Debug\boyles_law_win.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\boyles law_win\boyles law_win\obj\x86\Debug\boyles_law_win.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\boyles law_win\boyles law_win\obj\x86\Debug\boyles law_win.vbproj.GenerateResource.Cache

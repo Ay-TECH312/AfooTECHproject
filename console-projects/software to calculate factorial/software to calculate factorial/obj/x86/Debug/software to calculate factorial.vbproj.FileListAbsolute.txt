@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software_to_calculate_factorial.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.pdb
+D:\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.exe
+D:\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.xml
+D:\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.pdb
+D:\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.exe
+D:\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.pdb
+D:\Projects\software to calculate factorial\software to calculate factorial\bin\Debug\software to calculate factorial.xml
+D:\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software_to_calculate_factorial.Resources.resources
+D:\Projects\software to calculate factorial\software to calculate factorial\obj\x86\Debug\software to calculate factorial.vbproj.GenerateResource.Cache
